@@ -1,0 +1,5 @@
+*.pyc
+*.coverage
+*.sh
+*.xml
+*.out
